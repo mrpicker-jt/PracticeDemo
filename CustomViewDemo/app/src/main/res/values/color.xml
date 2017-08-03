@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow_a">#feed44</color>
+    <color name="yellow_b">#ffd700</color>
+    <color name="yellow_c">#ffd128</color>
+    <color name="yellow_d">#ffb233</color>
+
+    <color name="yellow_c_tran">#4cffd128</color>
+
+    <color name="blue_a">#64b2f3</color>
+    <color name="blue_b">#06aeed</color>
+    <color name="blue_c">#12b7f5</color>
+    <color name="blue_d">#28ddfb</color>
+    <color name="blue_e">#009eda</color>
+    <color name="blue_f">#A6E4FF</color>
+    <color name="blue_g">#5bccd9</color>
+    <color name="blue_f_30">#4cA6E4FF</color>
+    <color name="blue_c_30">#4c12b7f5</color>
+    <color name="blue_g_tran">#cc5bccd9</color>
+    <color name="blue_a_tran">#c664b2f3</color>
+
+    <color name="red_a">#f66d6d</color>
+    <color name="red_b">#f06264</color>
+    <color name="red_c">#f59a9b</color>
+    <color name="red_a_trans">#cdf66d6d</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_b">#cdffffff</color>
+
+    <color name="green_a">#70deb2</color>
+    <color name="green_a_trans">#cd70deb2</color>
+    <color name="green_b_trans">#6649ba86</color>
+
+    <color name="gray_a">#f0f0f4</color>
+    <color name="gray_b">#e1e1e1</color>
+    <color name="gray_d">#33dedede</color>
+
+    <color name="black_a">#bfbfbf</color>
+    <color name="black_b">#a0a0a0</color>
+    <color name="black_c">#797979</color>
+    <color name="black_d">#4d4d4d</color>
+    <color name="black_e">#000000</color>
+    <color name="black_f">#002646</color>
+    <color name="black_g">#234057</color>
+
+    <color name="holo_blue">#FF33E5B5</color>
+
+    <color name="sixty_trans">#99000000</color>
+    <color name="eighty_trans">#cc000000</color>
+    <color name="dialog_bg">#5f000000</color>
+    <color name="black_trans">#33000000</color>
+    <color name="transparent">#50000000</color>
+    <color name="fifty_trans">#80000000</color>
+    <color name="forty_trans">#64000000</color>
+    <color name="ten_trans">#1a000000</color>
+    <color name="full_trans">#00000000</color>
+    <color name="twenty_trans">#33000000</color>
+
+    <color name="TRANS_BL">#CC000000</color>
+
+    <color name="eighty_trans_blue">#cc091140</color>
+
+</resources>
